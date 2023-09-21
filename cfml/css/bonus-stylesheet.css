@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.theRoads{
+  transition: .8s ease;
+}
+.theRoads:hover{
+	transition: 1.54s ease;
+	text-shadow: 
+		0.0rem 0.7rem 0px #bb4d00ff,
+		0.0rem 1.4rem 0px #bb4d00dd,		
+		0.0rem 2.1rem 0px #bb4d00bb,
+		0.0rem 2.8rem 0px #bb4d0099,
+		0.0rem 3.5rem 0px #bb4d0077,
+		0.0rem 4.2rem 0px #bb4d0055,
+		0.0rem 4.9rem 0px #bb4d0033,
+		-0.0rem -0.7rem 0px #247ba0ff,
+		-0.0rem -1.4rem 0px #247ba0dd,
+		-0.0rem -2.1rem 0px #247ba0bb,
+		-0.0rem -2.8rem 0px #247ba099,
+		-0.0rem -3.5rem 0px #247ba077,
+		-0.0rem -4.2rem 0px #247ba055,
+		-0.0rem -4.9rem 0px #247ba033;
+}
+
+.relativeSwitch{
+	position: absolute !important;
+}
